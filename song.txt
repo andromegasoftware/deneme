@@ -1,3 +1,4 @@
+
 Önce yükleyeceğiniz klasörün içine cd kodları ile giriyorsunuz.
 Ls kodu ile girdiğiniz klasörün içeriğini kontrol edebilirsiniz.
 
