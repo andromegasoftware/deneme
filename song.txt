@@ -6,6 +6,6 @@ Ls kodu ile girdiğiniz klasörün içeriğini kontrol edebilirsiniz.
 line is the new
 
 
-super
+super line
 
 
